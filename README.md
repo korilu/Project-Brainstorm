@@ -1,5 +1,5 @@
 # Project Brainstorm
-## _Group AE-6: Elizabeth Stirling, Kori Lu, Sarah West & Briana Lincoln_
+### _Group AE-6: Elizabeth Stirling, Kori Lu, Sarah West & Briana Lincoln_
 
 ## Domain of Interest
 
